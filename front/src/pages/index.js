@@ -17,9 +17,9 @@ export default function Home() {
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <main className={styles.main}>
-      <h2>Generación de documentos PDF del GO</h2>
+      <h2>Generación de documentos de GO</h2>
         <div className={styles.description}>
-          <p>Select the document you want to generate:&nbsp;</p>
+          <p>Seleccione el documento PDF que desea generar:&nbsp;</p>
           <div>
             <a
               href='http://172.18.88.4:4204/productos/Dearrollo'
@@ -28,7 +28,7 @@ export default function Home() {
             >
               <Image
                 src='/logoGOw.png'
-                alt='Vercel Logo'
+                alt='GO Gestión Operativa'
                 className={styles.vercelLogo}
                 width={75}
                 height={75}
