@@ -1,0 +1,41 @@
+{
+  "agente": "Toyogran",
+  "datosModelo": {
+    "direccion1": {
+      "linea1": "Avenida Nestor,2",
+      "linea2": "esq. con C/ León y Castillo, 203",
+      "linea3": "35004 Las Palmas de G.C.",
+      "telefono": "928 243291"
+    },
+    "direccion2": {
+      "linea1": "C/ La Isa, 51",
+      "linea2": "Polígono Ind. Llanos del Camello",
+      "linea3": "38639 San Miguel de Abona - S/C de Tenerife",
+      "telefono": "922 882199"
+    },
+    "direccion3": {
+      "linea1": "C/ Las Industrias, 20",
+      "linea2": "Cercado Chico, Taco",
+      "linea3": "38108 La Laguna - S/C de Tenerife",
+      "telefono": "922 882199"
+    }
+  },
+  "cif": "22999888K",
+  "nombre": "Arístides",
+  "apellidos": "Viera Morales",
+  "telefono": "928 333 444",
+  "direccion": "C/ Rue del Percebe N 13",
+  "codigoPostal": "35001",
+  "poblacion": "Teror",
+  "provincia": "Las Palmas",
+  "correoE": "dirreccion@decorreo.com",
+  "modelo": "YARIS VVT 1.4 HYBRID",
+  "matricula": "1234 LKJ",
+  "chasis": "VNK898768743845",
+  "primeraMatriculacion": "01/02/2003",
+  "importe": "16.564,00 €",
+  "formaDePago": "TRANSFERENCIA",
+  "dia": "27",
+  "mes": "febrero",
+  "año": "2023"
+}

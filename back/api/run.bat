@@ -1,0 +1,1 @@
+SET DEBUG=api:* & yarn start -p 9000
